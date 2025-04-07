@@ -91,3 +91,9 @@ El script genera las siguientes salidas principales:
 * **Archivo Excel:** `df_info.xlsx` (información detallada sobre las columnas del DataFrame principal).
 * **Gráficos:** Varias visualizaciones generadas con Matplotlib y Seaborn que muestran tendencias, distribuciones y correlaciones.
 * **Informe de Perfilamiento de Datos:** Un informe interactivo generado por `ydata-profiling` que proporciona un análisis detallado del DataFrame principal.
+
+## Contribuyentes
+ * Nicolas Lozano Mazuera
+ * Luisa María Candelo Angulo
+ * Martin Alonso Herrera Vargas
+ * Jose Luis Santamaria
